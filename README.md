@@ -1,5 +1,4 @@
 # Etherpad: A real-time collaborative editor for the web
-
 ![Demo Etherpad Animated Jif](doc/public/etherpad_demo.gif "Etherpad in action")
 
 ## About
